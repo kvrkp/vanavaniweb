@@ -8,6 +8,6 @@ than  we  expect. We  should  do good deeds  and  speak  kind  words.
 Real  good  is  done  without  any  thought  of  the  rewards  it  will   bring. 
 At  the  same  time  it  is  only  human  expect  a  good  word  at  least  in  return.  
 <br>
-<b>MORAL:  He  who  plants  thorns  shall not  gather  roses.</b>
+<b>MORAL: He  who  plants  thorns  shall not  gather  roses.</b>
 </td><td>
 <img src="images/teachers/10_amalorpuva_mary.jpg_medium.jpg" /></td></tr>
