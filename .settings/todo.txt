@@ -1,0 +1,1 @@
+1. Make the pictures change according to the link clicked.
