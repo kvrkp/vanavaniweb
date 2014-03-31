@@ -25,6 +25,7 @@
 			<td class="link"><a href="/vanavaniweb/video_gallery.php">VIDEO GALLERY</a></td>
 			<td class="link"><a href="/vanavaniweb/showcase.php">SHOW CASE</a></td>
 			<td class="link"><a href="/vanavaniweb/contact_us.php">CONTACT US</a></td>
+			<td class="link"><a href="/vanavaniweb/jobs.php">JOBS</a></td>
 			<td class="link"><a href="http://www.facebook.com/vanavanisalem" target="_blank">Facebook</a></td>
 		</tr>
 	</table>

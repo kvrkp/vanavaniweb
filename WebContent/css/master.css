@@ -210,13 +210,24 @@ table.photo_gallery_mini td img {
 table.goal td {
 	padding: 3px 3px 3px 3px;
 }
-table.goal tr.row1,
-table.goal tr.row3 {
+table.goal tr.row1
+{
 	background: #FAEBD7;
 	color: #841B2D;
 	font-weight: bold;
 }
 table.goal tr.row2 {
+	background: #FE6F5E;
+	color: white;
+	font-weight: bold;
+}
+table.jobs tr.row1
+{
+	background: #FAEBD7;
+	color: #841B2D;
+	font-weight: bold;
+}
+table.jobs tr.row2 {
 	background: #FE6F5E;
 	color: white;
 	font-weight: bold;
@@ -236,4 +247,10 @@ table.goal tr.row2 {
 }
 p.red {
 	color: red;
+}
+p.blue {
+	color: blue;
+}
+p.yellow {
+	color: yellow;
 }
