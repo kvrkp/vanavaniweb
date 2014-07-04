@@ -3,19 +3,16 @@
 		<tr>
 			<td>
 				<marquee>
-				<p>We are planning for a career fair on Mar 29 and a teacher walk in interview on Mar 28/29 at Vanavani Vidyalaya. In the career fair, We will speak about competitive exams, computers and communication skills. All are welcome. CD material will be distributed.</p>				
+				<p><a href="jobs.php">We are looking to hire teachers. Please see our jobs section for more information.</a></p>				
 				</marquee>
 				<br>
 				<div id="placeholder">
 				<table><tr>
-					<td><img src="images/invitations/career_planning_invitation_v3.jpg" width="275" title="Career Planning Invitation"/></td>					
 					<td>
-						<table><tr><td><img src="images/invitations/walkin_interview_mar_2014.jpg" width="275" title="walkin interview"/>
-							</td></tr>
-							<tr><td><img src="images/map/school_location_02.jpg" width="275px" title="Vanavani location"/>
-							</td></tr>
-						</table>
-					</td>
+                                        <?php
+                                                include("sliderotator.php");
+                                        ?>	
+                                        </td>					
 				</tr></table>	
 				</div>
 				<div id="notice">
@@ -37,6 +34,7 @@
 	<table>
 	<tr>
 		<td><img src="images/map/school_location_01.jpg" width="340px" /></td>
+		<td><img src="images/map/school_location_02.jpg" width="340px" /></td>
 	</tr>
 	</table>				
 </div>

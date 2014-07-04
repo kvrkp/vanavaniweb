@@ -254,3 +254,6 @@ p.blue {
 p.yellow {
 	color: yellow;
 }
+table#newsletter td.firstcol {
+	width: 90%;
+}
