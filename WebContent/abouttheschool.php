@@ -22,8 +22,8 @@ Vanavani Vidyalaya Matriculation School, Salem - About the School
 <div class="main_content">
 You are here: Home > About the School
 <hr>
-- The School name is VANA VANI VIDYALAYA MATRICULATION SCHOOL <br>
-- Started in 1989 in a small place with two students at Gandhi Road, Salem 636 007 <br>
+- The School name is VANA VANI VIDYALAYA MATRICULATION SCHOOL. <br>
+- Started in 1989 in a small place with two students at Gandhi Road, Salem 636007.<br>
 - Started in Neikkarapatti, Salem 636 010 in 3.5 acres land in 1991 <br>
 - The school is run by a family Trust. The name of the Trust is K.T.S.N.Memorial Charitable Trust.Trustees are Dr N. Saileswaran and Mrs. Nagarathna Saileswaran.<br>
 <br>

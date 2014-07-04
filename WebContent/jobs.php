@@ -43,7 +43,7 @@ Candidates should be graduates, preferably with a B.Ed. or a M.Sc in Maths.
 </td></tr>
 <tr class="row1"><td>
 <p class="red">KinderGarten Teacher</p><br>
-We are looking for individuals who have a passion for working with children. 
+We are looking for individuals who have a strong passion for working with children. 
 Experience in using innovative methods in teaching will be preferred.
 Candidates should be graduates and should be able to speak English.
 </td>
